@@ -77,5 +77,5 @@ Modern AI agents assist in prompt preparation and basic validation, but self-con
 
 ---
 
-## Credits  
+  
 *Prepared by Humberto Ribeiro de Souza, August 2025.*  
